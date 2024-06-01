@@ -25,11 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaartik-arya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaartik-arya/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/saarthakarya06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/saarthakarya06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/saarthakarya06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/saarthakarya06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kaartik_arya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kaartik_arya/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.geeksforgeeks.org/user/saarthakarya06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.geeksforgeeks.org/user/saarthakarya06/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaartik-arya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaartik-arya/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/saarthakarya06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/saarthakarya06" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/saarthakarya06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/saarthakarya06" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kaartik_arya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kaartik_arya/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/saarthakarya06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.geeksforgeeks.org/user/saarthakarya06/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
