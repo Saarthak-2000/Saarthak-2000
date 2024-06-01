@@ -1,5 +1,5 @@
-![github-header-image](https://github.com/Saarthak-2000/Saarthak-2000/assets/97108442/a26ea954-c086-4312-bd06-8f8c5226fd85)
-)
+![github-header-image (7)](https://github.com/Saarthak-2000/Saarthak-2000/assets/97108442/95d7f6a6-fda3-47c1-bcf5-493320f2e4bf)
+
 <h1 align="center">Hi 👋, I'm KAARTIK ARYA</h1>
 <h3 align="center">As a B.Tech graduate in Computer Engineering with a passion for software development, data analysis, and visualization, I bring a robust foundation in programming languages such as SQL and Python. I am a proactive learner, continuously updating my knowledge with the latest trends and advancements in data science and visualization. My enthusiasm for exploring new tools and techniques drives my ability to enhance my skill set. If you are seeking a dedicated and analytical professional, I would be excited to connect and explore collaborative opportunities.</h3>
 <div style="display: flex; justify-content: center;">
