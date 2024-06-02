@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Big Data, Machine learning, etc.**
 
-- 🤝 I’m looking for help with **staying positive and ways to reduce overthinking.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Saarthak-2000?tab=repositories](https://github.com/Saarthak-2000?tab=repositories)
 
 - 💬 Ask me about **whatever you feel will add to both of ours knowledge (in some positive way)**
