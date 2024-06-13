@@ -39,7 +39,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="GeeksforGeeks" height="30" width="40" style="filter: invert(75%) sepia(30%) saturate(500%) hue-rotate(180deg);" />
   </a>
 <a href="https://www.naukri.com/code360/profile/Kaartik" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" alt="CodingNinjas" height="30" width="40" style="filter: invert(75%) sepia(30%) saturate(500%) hue-rotate(180deg);" />
+    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCoding-Ninjas-Club-SRM&psig=AOvVaw3HYEZYG-X0cKu8SQmGdomz&ust=1718376711038000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiBlK3q2IYDFQAAAAAdAAAAABAE" alt="CodingNinjas" height="30" width="40" style="filter: invert(75%) sepia(30%) saturate(500%) hue-rotate(180deg);" />
   </a>
 </p>
 
