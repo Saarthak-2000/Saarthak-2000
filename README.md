@@ -38,6 +38,9 @@
   <a href="https://www.geeksforgeeks.org/user/saarthakarya06/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="GeeksforGeeks" height="30" width="40" style="filter: invert(75%) sepia(30%) saturate(500%) hue-rotate(180deg);" />
   </a>
+<a href="https://www.naukri.com/code360/profile/Kaartik" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" alt="CodingNinjas" height="30" width="40" style="filter: invert(75%) sepia(30%) saturate(500%) hue-rotate(180deg);" />
+  </a>
 </p>
 
 
